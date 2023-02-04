@@ -1,3 +1,3 @@
 # python algorithms
 
-Learning python using data structures and algorithms
+Learning python through data structures and algorithms
